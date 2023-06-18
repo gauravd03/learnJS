@@ -88,7 +88,7 @@ for(let c of gname){
 //............................................................................
 
 
-//while loop
+//while loopj
 
 //intialization ===>> condition===>>increament
 
