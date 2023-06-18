@@ -78,5 +78,11 @@ const person = {
   }
   const john = new Person('John', 30);
 
-  console.log(john)
+  console.log(john);
+
+const car = {
+    this.color = "black",
+    this.price = 100000;
+}
+console.log(car.color);
   
